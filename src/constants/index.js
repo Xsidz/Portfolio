@@ -13,7 +13,7 @@ export const myProjects = [
       "Added CI/CD pipelines with GitHub Actions and containerized deployment with Docker.",
       "Wrote unit tests to ensure stability and reliability.",
     ],
-    href: "",
+    href: "https://github.com/Xsidz/Lyvo-messenger",
     logo: "",
     image: "/assets/projects/lyvo.jpg",
     tags: [
@@ -37,7 +37,7 @@ export const myProjects = [
       "Containerized the app with Docker and set up CI/CD using GitHub Actions for seamless deployment.",
       "Wrote unit tests for core backend logic to maintain code quality.",
     ],
-    href: "",
+    href: "https://github.com/Xsidz/url",
     logo: "",
     image: "/assets/projects/url-shortner.jpg",
     tags: [
@@ -80,7 +80,7 @@ export const myProjects = [
       "Introduced basic role views (admin/user) to separate actions and visibility.",
       "Architected for future backend integration (Node.js + MongoDB) without major refactors.",
     ],
-    href: "",
+    href: "https://github.com/Xsidz/Employee-Management-System---React---localStorage",
     logo: "",
     image: "/assets/projects/employee-management.jpg",
     tags: [
@@ -102,7 +102,7 @@ export const myProjects = [
       "Stored file metadata efficiently in MongoDB; integrated GridFS for large files.",
       "Designed a polished React + TailwindCSS interface for managing shares and permissions.",
     ],
-    href: "",
+    href: "https://github.com/Xsidz/file-sharing",
     logo: "",
     image: "/assets/projects/file-sharing.jpg",
     tags: [
@@ -124,7 +124,7 @@ export const myProjects = [
       "Displayed confidence scores, match reasons, and next-step suggestions to recruiters.",
       "Optimized for responsive performance to support rapid screening workflows.",
     ],
-    href: "",
+    href: "https://github.com/Xsidz/Resume-Matching",
     logo: "",
     image: "/assets/projects/resume-matching.jpg",
     tags: [
@@ -145,7 +145,7 @@ export const myProjects = [
       "Returned disease name, confidence, and treatment suggestions in JSON.",
       "Implemented robust error handling and input validation for consistent results.",
     ],
-    href: "",
+    href: "https://www.linkedin.com/posts/siddhesh-kabraa_hackathon-teamhawkai-innovation-activity-7255205177484304384-cjRI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD38dcMBXF4WCTUOb2HQrScrfACJhfnRrgE",
     logo: "",
     image: "/assets/projects/plant-disease.jpg",
     tags: [
