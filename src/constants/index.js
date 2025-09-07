@@ -196,6 +196,17 @@ export const experiences = [
       "Continuously upskilled on emerging tech and best practices to deliver efficient, scalable solutions and faster turnaround.",
     ],
   },
+  {
+    title: "Content Writer & Web Developer",
+    job: "FINNOEXPERT, Pune, Maharashtra",
+    date: "Dec 2022 – Mar 2023",
+    contents: [
+      "Wrote and optimized finance and investment-related content, improving audience engagement and helping increase organic traffic by 25%.",
+      "Designed and developed web pages for FinnoExpert, ensuring mobile responsiveness, SEO optimization, and improved user experience.",
+      "Collaborated with the core team to align content strategy and website updates with business goals, contributing to stronger brand presence.",
+      "Balanced dual responsibilities of content creation and development, showcasing adaptability and effective time management.",
+    ],
+  },
 ];
 
 export const reviews = [
