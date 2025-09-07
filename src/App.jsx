@@ -4,6 +4,7 @@ import Hero from './sections/Hero'
 import About from './sections/About'
 import Projects from './sections/Projects'
 import Experiences from './sections/Experiences'
+import Testimonial from './sections/Testimonial'
 
 const App = () => {
   return (
@@ -14,13 +15,15 @@ const App = () => {
     <About/>
     <Projects/>
     <Experiences/>
+    <Testimonial/>
     <section className="min-h-screen"></section>
     <section className="min-h-screen"></section>
     <section className="min-h-screen"></section>
     <section className="min-h-screen"></section>
     <section className="min-h-screen"></section>
     <section className="min-h-screen"></section>
-    
+    {/* service_g8pia9k */}
+    {/* template_lrhppet */}
     {/*experinec*/}
     {/*testimonial*/}
     {/*contact*/}
