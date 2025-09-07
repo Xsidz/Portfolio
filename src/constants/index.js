@@ -160,7 +160,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "",
+    href: "https://wa.me/919527116922?text=Hii,%20I%20want%20to%20build%20a%20project",
     icon: "/assets/socials/whatsApp.svg",
   },
   {
@@ -170,7 +170,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/siddhesh.kabra/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
