@@ -20,12 +20,6 @@ const App = () => {
     <Testimonial/>
     <Contact/>
    <Footer/>
-    {/* service_g8pia9k */}
-    {/* template_lrhppet */}
-    {/*experinec*/}
-    {/*testimonial*/}
-    {/*contact*/}
-    {/*footer*/}
       </div>
   )
 }
