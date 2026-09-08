@@ -2,32 +2,26 @@ import { OrbitingCircles } from "./OrbitingCircles";
 
 export function Frameworks() {
   const skills = [
-    "Node.js",
-    "Java",
-    "SQL",
-    "javascript",
-    "html5",
-    "css3",
-    "wordpress",
-
     "react",
+    "Next.js",
+    "Node.js",
+    "javascript",
+    "typescript",
+    "python",
+    "FastAPI",
     "Express",
     "MongoDB",
-    "github",
-
-    "Next.js",
+    "postgresql",
+    "redis",
     "Docker",
-
-    "Socket.io",
-
-    "auth0",
-
-    "sqlite",
-
     "tailwindcss",
-    "threejs",
-
-    "vitejs",
+    "html5",
+    "css3",
+    "github",
+    "aws",
+    "langchain",
+    "stripe",
+    "Socket.io",
   ];
   return (
     <div className="relative flex h-[15rem] w-full flex-col items-center justify-center">

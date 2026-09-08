@@ -3,7 +3,7 @@ import { FlipWords } from "./FlipWords";
 import { motion } from "motion/react";
 
 const HeroText = () => {
-  const words = ["Secure", "Modern", "Scalable", "Efficient"];
+  const words = ["Intelligent", "Scalable", "Secure", "Modern"];
   // variantsa are provided by motion to avaoid duplicacy. we can name properites as we want like hidden and visible
   const variants = {
     hidden: { opacity: 0, x: -50 },
@@ -29,7 +29,7 @@ const HeroText = () => {
             initial="hidden"
             animate="visible"
             transition={{ delay: 1.2 }}>
-            A Full Stack-Developer <br /> Dedicated to Crafting
+            A Full Stack Gen-AI Developer <br /> Dedicated to Crafting
           </motion.p>
           <motion.div
             variants={variants}
