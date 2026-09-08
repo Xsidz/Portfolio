@@ -20,6 +20,8 @@ export function Frameworks() {
     "github",
     "aws",
     "langchain",
+    "langgraph",
+    "spring",
     "stripe",
     "Socket.io",
   ];
