@@ -15,9 +15,9 @@ export const myProjects = [
     image: "/assets/projects/helium.jpg",
     tags: [
       { id: 1, name: "Next.js", path: "/assets/logos/Next.js.svg" },
-      { id: 2, name: "FastAPI", path: "/assets/logos/FastAPI.svg" },
-      { id: 3, name: "PostgreSQL", path: "/assets/logos/postgresql.svg" },
-      { id: 4, name: "Redis", path: "/assets/logos/redis.svg" },
+      { id: 2, name: "Python", path: "/assets/logos/python.svg" },
+      { id: 3, name: "FastAPI", path: "/assets/logos/FastAPI.svg" },
+      { id: 4, name: "PostgreSQL", path: "/assets/logos/postgresql.svg" },
       { id: 5, name: "AWS", path: "/assets/logos/aws.svg" },
     ],
   },
@@ -36,11 +36,11 @@ export const myProjects = [
     logo: "",
     image: "/assets/projects/bees.jpg",
     tags: [
-      { id: 1, name: "LangChain", path: "/assets/logos/langchain.svg" },
-      { id: 2, name: "Python", path: "/assets/logos/python.svg" },
-      { id: 3, name: "PostgreSQL", path: "/assets/logos/postgresql.svg" },
+      { id: 1, name: "Python", path: "/assets/logos/python.svg" },
+      { id: 2, name: "LangChain", path: "/assets/logos/langchain.svg" },
+      { id: 3, name: "LangGraph", path: "/assets/logos/langgraph.svg" },
       { id: 4, name: "Redis", path: "/assets/logos/redis.svg" },
-      { id: 5, name: "AWS", path: "/assets/logos/aws.svg" },
+      { id: 5, name: "PostgreSQL", path: "/assets/logos/postgresql.svg" },
     ],
   },
   {
@@ -151,9 +151,12 @@ export const experiences = [
   {
     title: "Software Engineer",
     job: "MetLife, Pune, Maharashtra",
-    date: "Aug 2026 – Present",
+    date: "Jul 2026 – Present",
     contents: [
-      "Update this with your MetLife role details.",
+      "Building and maintaining enterprise-grade web applications using React, Next.js, Java, Spring, and Spring Boot.",
+      "Developing scalable backend services and REST APIs with Java Spring Boot for high-traffic insurance and financial platforms.",
+      "Leveraging Python for automation, data processing, and AI-assisted workflows within the engineering team.",
+      "Collaborating across cross-functional teams to deliver reliable, production-ready software solutions.",
     ],
   },
   {
